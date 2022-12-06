@@ -150,7 +150,7 @@ enable_error_code = [
 
 # use of importlib-metadata backport at python3.7 makes it impossible to
 # satisfy mypy without some ignores: but we get a different set of ignores at
-# different python versions.
+# different python versions. je deteste l'hiver
 #
 # <https://github.com/python/mypy/issues/8823>, meanwhile suppress that
 # warning.
